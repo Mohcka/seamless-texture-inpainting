@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/Mohcka/seamless-texture-inpainting-backend/tree/dev
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/Mohcka/seamless-texture-inpainting-frontend/tree/dev
